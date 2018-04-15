@@ -1,0 +1,136 @@
+#contenido{
+width: 1200px;
+height: auto;
+margin: auto;
+position: relative;
+}
+
+body{
+background: #F5F6CE;
+}
+
+header{
+	width: 1200px;
+	height: 150px;
+	border-style: solid;
+	border-color: #004669;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 10px;
+	margin-top: 10px; 
+	font: 100% sans-serif;
+}
+
+h1{
+	color:#004669;
+	font-size: 30px;
+	text-align: center;  
+}
+
+h2{
+	color:#004669;
+	font-size: 20px;
+	text-align: center;	
+}
+
+h3{
+	color:#004669;
+	font-size: 20px;
+	text-align: center;
+}
+
+h4{
+	color:#004669;
+	font-size: 20px;
+	text-align: center;
+}
+
+h5{
+	color:#004669; 
+	font-size: 20px;
+	text-align: center;
+}
+
+h6{
+	color:#004669; 
+	font-size: 20px;
+	text-align: center;
+}
+
+nav{
+
+	width: 1200px;
+	height: 150px;
+	border-style: solid;
+	border-color: #004669;
+	background: #004669;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 10px;
+	font: 10% sans-serif;
+}
+
+ul{
+	margin: auto;
+	padding-top: 5px;
+}
+
+li{
+	float: left;
+	list-style-type: none;
+	margin: 10px;
+}
+
+a{
+	text-decoration: none;
+	font-size: 30px;
+	color: white;
+}
+
+.menu:link{color:white; text-decoration: none;}
+.menu:visited{color:white; text-decoration: none;}
+.menu:hover{color:white; text-decoration: none; background: #e7b200;}
+.menu:active{color:white; text-decoration: none;}
+
+section{
+	width: 680px;
+	height: 1100px;
+	float:left; 
+	border-style: solid;
+	border-color: #004669;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 5px;
+	margin-bottom: 5px; 
+	font: 100% sans-serif;
+}
+
+aside{
+
+	width: 488px;
+	height: 1100px;
+	float: left;
+	border-style: solid;
+	border-color: #004669;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 10px;
+	margin-left: 20px; 
+	font: 100% sans-serif;
+}
+
+footer{
+	width: 1200px;
+	height: 100px;
+	background: #FFC300;	
+	float: left;
+	border-style: solid;
+	border-color: #004669;
+	border-top-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	margin-bottom: 10px; 
+	font: 50% sans-serif;
+}
+
+p{
+	padding: 10px;
+}
